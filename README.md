@@ -12,8 +12,10 @@ This repo explores following NLP workflow:
 - Named Entity Recognition (NER)
 
 ## Sentiment Analysis
-Performed Sentiment analysis in python using different techniques:
+Performed Sentiment analysis in sentiment_analysis python notbook using different techniques:
 
 - VADER (Valence Aware Dictionary and sEntiment Reasoner) - Bag of words approach
 - Roberta Pretrained Model from Transformers
 - Huggingface Pipeline
+
+Data for sentiment analysis : https://www.kaggle.com/datasets/snap/amazon-fine-food-reviews
